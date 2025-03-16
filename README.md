@@ -1,1 +1,1 @@
-# google-ai-cmd-prompt
+# google AI Command Prompt
